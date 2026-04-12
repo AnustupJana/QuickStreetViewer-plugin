@@ -1,0 +1,1 @@
+# QuickStreetViewer-plugin
