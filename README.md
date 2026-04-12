@@ -68,14 +68,12 @@ The **Quick Street Viewer** plugin for QGIS is a lightweight and efficient tool 
 2. **Click on Map**:
    - Click anywhere on the QGIS map canvas.
 
-   ![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/doc/4th.png?raw=true)
-
 3. **Automatic Actions**:
    - Opens Google Street View for the selected location.
    - Copies coordinates to clipboard.
    - Displays a marker at the clicked point.
 
-   ![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/doc/5th.png?raw=true)
+   ![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/doc/4th.png?raw=true)
 
 4. **View Result**:
    - If WebEngine is available → Street View opens inside QGIS.
