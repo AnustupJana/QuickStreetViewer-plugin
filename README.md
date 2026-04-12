@@ -1,5 +1,5 @@
 # Quick Street Viewer QGIS Plugin
-![Diagram of the System](https://github.com/YOUR_USERNAME/QuickStreetViewer/blob/main/icon.png?raw=true)
+![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/icon.png?raw=true)
 
 ## Overview
 
@@ -26,11 +26,11 @@ The **Quick Street Viewer** plugin for QGIS is a lightweight and efficient tool 
 1. **From QGIS Plugin Repository**:
    - In QGIS, go to `Plugins > Manage and Install Plugins`.
 
-   ![Diagram of the System](https://github.com/YOUR_USERNAME/QuickStreetViewer/blob/main/doc/1st.png?raw=true)
+   ![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/doc/1st.png?raw=true)
 
    - Search for "Quick Street Viewer".
 
-   ![Diagram of the System](https://github.com/YOUR_USERNAME/QuickStreetViewer/blob/main/doc/2nd.png?raw=true)
+   ![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/doc/2nd.png?raw=true)
 
    - Click `Install Plugin`.
 
@@ -63,19 +63,19 @@ The **Quick Street Viewer** plugin for QGIS is a lightweight and efficient tool 
 1. **Launch the Plugin**:
    - Click the **Quick Street Viewer** icon from the toolbar or Plugins menu.
 
-   ![Diagram of the System](https://github.com/YOUR_USERNAME/QuickStreetViewer/blob/main/doc/3rd.png?raw=true)
+   ![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/doc/3rd.png?raw=true)
 
 2. **Click on Map**:
    - Click anywhere on the QGIS map canvas.
 
-   ![Diagram of the System](https://github.com/YOUR_USERNAME/QuickStreetViewer/blob/main/doc/4th.png?raw=true)
+   ![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/doc/4th.png?raw=true)
 
 3. **Automatic Actions**:
    - Opens Google Street View for the selected location.
    - Copies coordinates to clipboard.
    - Displays a marker at the clicked point.
 
-   ![Diagram of the System](https://github.com/YOUR_USERNAME/QuickStreetViewer/blob/main/doc/5th.png?raw=true)
+   ![Diagram of the System](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/doc/5th.png?raw=true)
 
 4. **View Result**:
    - If WebEngine is available → Street View opens inside QGIS.
@@ -99,12 +99,12 @@ The **Quick Street Viewer** plugin for QGIS is a lightweight and efficient tool 
 ---
 
 ## Issues and Support
-- Report bugs or suggest features via the [issue tracker](https://github.com/YOUR_USERNAME/QuickStreetViewer/issues).
+- Report bugs or suggest features via the [issue tracker](https://github.com/AnustupJana/QuickStreetViewer-plugin/issues).
 - For queries, contact: anustupjana21@gmail.com
 
 ---
 
 ## License
 This plugin is licensed under the **GNU General Public License v2.0 or later**.  
-See the [LICENSE](https://github.com/YOUR_USERNAME/QuickStreetViewer/blob/main/LICENSE) file for details.
+See the [LICENSE](https://github.com/AnustupJana/QuickStreetViewer-plugin/blob/main/LICENSE) file for details.
 
